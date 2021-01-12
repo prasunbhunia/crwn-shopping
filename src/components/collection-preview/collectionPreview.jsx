@@ -3,7 +3,7 @@ import CollectionItem from '../collectionItem/collectionItem';
 
 import './collectionPreview.scss';
 
-const collectionPreview = ({title, items}) => (
+const collectionPreview = ({id, title, items}) => (
     <div className="collection-preview">
         <h1 className="title">{title}</h1>
         <div className="preview">
