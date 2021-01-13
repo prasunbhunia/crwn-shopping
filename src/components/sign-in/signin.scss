@@ -1,4 +1,9 @@
 .sign-in{
-    width: 30vw;
+    width: 380px;
     padding-top: 3rem;
+
+    .button{
+        display: flex;
+        justify-content: space-between;
+    }
 }
