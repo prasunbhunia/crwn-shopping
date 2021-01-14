@@ -2,7 +2,7 @@
   width: 22%;
   display: flex;
   flex-direction: column;
-  height: 450px;
+  height: 420px;
   align-items: center;
   border: 1px solid black;
 
@@ -13,14 +13,13 @@
     background-position: center;
     margin-bottom: 5px;
   }
-
   .collection-footer {
     width: 100%;
-    height: 5%;
+    height: 30px;
     display: flex;
     justify-content: space-between;
     font-size: 18px;
-    padding: 10px;
+    padding: 0px 10px;
 
     .name {
       width: 90%;
