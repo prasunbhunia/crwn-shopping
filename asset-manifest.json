@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/git@github.com:prasunbhunia/anush-solar-system.git/static/css/main.9e195a90.chunk.css",
-    "main.js": "/git@github.com:prasunbhunia/anush-solar-system.git/static/js/main.1f699f6f.chunk.js",
-    "main.js.map": "/git@github.com:prasunbhunia/anush-solar-system.git/static/js/main.1f699f6f.chunk.js.map",
-    "runtime-main.js": "/git@github.com:prasunbhunia/anush-solar-system.git/static/js/runtime-main.2461037a.js",
-    "runtime-main.js.map": "/git@github.com:prasunbhunia/anush-solar-system.git/static/js/runtime-main.2461037a.js.map",
-    "static/js/2.42fa559b.chunk.js": "/git@github.com:prasunbhunia/anush-solar-system.git/static/js/2.42fa559b.chunk.js",
-    "static/js/2.42fa559b.chunk.js.map": "/git@github.com:prasunbhunia/anush-solar-system.git/static/js/2.42fa559b.chunk.js.map",
-    "index.html": "/git@github.com:prasunbhunia/anush-solar-system.git/index.html",
-    "static/css/main.9e195a90.chunk.css.map": "/git@github.com:prasunbhunia/anush-solar-system.git/static/css/main.9e195a90.chunk.css.map",
-    "static/js/2.42fa559b.chunk.js.LICENSE.txt": "/git@github.com:prasunbhunia/anush-solar-system.git/static/js/2.42fa559b.chunk.js.LICENSE.txt",
-    "static/media/logo.3a4e2b15.svg": "/git@github.com:prasunbhunia/anush-solar-system.git/static/media/logo.3a4e2b15.svg"
+    "main.css": "/anush-solar-system/static/css/main.9e195a90.chunk.css",
+    "main.js": "/anush-solar-system/static/js/main.1f699f6f.chunk.js",
+    "main.js.map": "/anush-solar-system/static/js/main.1f699f6f.chunk.js.map",
+    "runtime-main.js": "/anush-solar-system/static/js/runtime-main.02c4423c.js",
+    "runtime-main.js.map": "/anush-solar-system/static/js/runtime-main.02c4423c.js.map",
+    "static/js/2.9db8f066.chunk.js": "/anush-solar-system/static/js/2.9db8f066.chunk.js",
+    "static/js/2.9db8f066.chunk.js.map": "/anush-solar-system/static/js/2.9db8f066.chunk.js.map",
+    "index.html": "/anush-solar-system/index.html",
+    "static/css/main.9e195a90.chunk.css.map": "/anush-solar-system/static/css/main.9e195a90.chunk.css.map",
+    "static/js/2.9db8f066.chunk.js.LICENSE.txt": "/anush-solar-system/static/js/2.9db8f066.chunk.js.LICENSE.txt",
+    "static/media/logo.3a4e2b15.svg": "/anush-solar-system/static/media/logo.3a4e2b15.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2461037a.js",
-    "static/js/2.42fa559b.chunk.js",
+    "static/js/runtime-main.02c4423c.js",
+    "static/js/2.9db8f066.chunk.js",
     "static/css/main.9e195a90.chunk.css",
     "static/js/main.1f699f6f.chunk.js"
   ]
